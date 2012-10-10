@@ -1,3 +1,5 @@
+// test promote
+
 var canvas = document.getElementById("textarea");
 var ctx    = canvas.getContext("2d");
 
